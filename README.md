@@ -3,7 +3,7 @@
 # democommands
 
 gcc -std=c11 -Wall -Wextra -pedantic main.c -o main
-./main
+
 
 
 2024
