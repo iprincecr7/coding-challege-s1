@@ -2,13 +2,16 @@
 
 # democommands
 
-gcc -std=c11 -Wall -Wextra -pedantic main.c -o main
+> gcc -std=c11 -Wall -Wextra -pedantic main.c -o main
 
+'''sh
+2 4
+S001 2025 HACKATHON
 
+S001 2025 PUBLICATION
 
-2024
-1 S003 12
-2025
-1 S001 25
-2 S002 8
+S002 2025 SPORTS
 
+S003 2024 INTERNSHIP
+
+'''
